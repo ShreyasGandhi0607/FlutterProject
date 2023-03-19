@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # project
 # MyAuthProject
 
+![PhoneAuthImg 001](https://user-images.githubusercontent.com/100945644/226185716-bb3b053e-95d2-44ef-8631-114d7a8f297b.png)
