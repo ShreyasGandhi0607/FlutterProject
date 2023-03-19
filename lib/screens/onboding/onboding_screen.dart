@@ -86,7 +86,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                             ),
                           ),
                           Text(
-                            "Your trusted home service partner ",
+                            "Your Trusted Partner ...!!! ",
                             style: TextStyle(
                               fontSize: 16,
                             ),
